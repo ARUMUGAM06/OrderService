@@ -1,6 +1,5 @@
 package com.ecommerce.orderapplication.common;
 
-import jakarta.annotation.sql.DataSourceDefinition;
 import org.springframework.jdbc.datasource.DataSourceTransactionManager;
 import org.springframework.transaction.TransactionStatus;
 import org.springframework.transaction.support.DefaultTransactionDefinition;

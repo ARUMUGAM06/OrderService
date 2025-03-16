@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Configuration status="INFO">
     <Properties>
-        <Property name="LOG_PATH">logs</Property>
+        <Property name="LOG_PATH">d:/logs</Property>
         <Property name="BACKUP_PATH">${LOG_PATH}/backup</Property>
-        <Property name="LOG_FILE">${LOG_PATH}/app.log</Property>
+        <Property name="LOG_FILE">${LOG_PATH}/orderService.log</Property>
     </Properties>
 
     <Appenders>
